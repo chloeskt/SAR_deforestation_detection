@@ -3,6 +3,8 @@
 Project for the course "Remote Sensing Data" of the master MVA at ENS Paris-Saclay. This project was done by Chloé 
 Sekkat and Arnaud Louys.
 
+Final grade: 19.5/20
+
 The goal was to implement the algorithm described in the paper "Use of the SAR Shadowing Effect for Deforestation 
 Detection with Sentinel-1 Time Series", which you can read [here](https://www.mdpi.com/2072-4292/10/8/1250).
 
